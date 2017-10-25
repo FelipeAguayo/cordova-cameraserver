@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-cameraserver",
+  "version": "0.3.0",
+  "description": "CameraServer is a plugin providing Live Camera Pictures (JPEG) over HTTP",
+  "cordova": {
+    "id": "cordova-plugin-cameraserver",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "camera",
+    "server",
+    "http",
+    "web",
+    "jpeg",
+    "ios",
+    "android"
+  ],
+  "author": "Steve Niquille",
+  "license": "MIT"
+}
